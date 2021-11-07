@@ -2,6 +2,9 @@
 Image scraper service for CS361
 
 
+Zip contains: main.py, templates(home.html, result.html)
+
+
 Required Python packages:
   Selenium
   Time
